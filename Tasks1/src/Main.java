@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
 
@@ -58,7 +59,7 @@ public class Main {
         if (string.isEmpty()) {
             return string;
         } else {
-            System.out.println("String to be passed in Recursive Function: "+string.substring(1));
+            System.out.println("String to be passed in Recursive Function: " + string.substring(1));
             return reverseStringRecursive(string.substring(1)) + string.charAt(0);
         }
     }
@@ -134,7 +135,6 @@ public class Main {
 
         for (int i = 0; i < array.length; i++) {
             if ((array[i] instanceof String) || (array[i] instanceof Character)) {
-
                 concatenateStrings += array[i] + " ";
             } else if (array[i] instanceof Integer) {
                 sum += (int) array[i];
@@ -145,10 +145,24 @@ public class Main {
         return concatenateStrings + "\nSum: " + sum + "\nPeople: " + people;
     }
 
+
+    /*Test hashcode*/
+
+
+
     public static void main(String[] args) {
-        Object[] array = {"Today", new Person("Alex", 23, "Male"), "is", 23, 652, 'a', new Person("Ion", 34, "Male"), "Big", "Day"};
+       // Object[] array = {"Today", new Person("Alex", 23, "Male"), "is", 23, 652, 'a', new Person("Ion", 34, "Male"), "Big", "Day"};
+
+       Person person=new Person();
+       Person person1=new Person();
 
 
+        HashMap<Person,Integer> hashMap=new HashMap<>();
+
+        hashMap.put(person,0);
+        hashMap.put(person1,1);
+
+        System.out.println(hashMap);
     }
 
 }
