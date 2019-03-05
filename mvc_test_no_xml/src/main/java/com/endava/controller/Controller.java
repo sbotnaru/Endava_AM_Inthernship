@@ -7,8 +7,18 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @RequestMapping("/")
 public class Controller {
 
-@RequestMapping(method = RequestMethod.GET)
-    public String hello(){
-    return "index";
-}
+    @RequestMapping("/")
+    public String home(){
+        return "index";
+    }
+
+    @RequestMapping("/showForm")
+    public String showForm() {
+        return "show_form";
+    }
+
+    @RequestMapping("/procesForm")
+    public String procesForm() {
+        return "proces_form";
+    }
 }
