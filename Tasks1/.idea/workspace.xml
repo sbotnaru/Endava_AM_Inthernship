@@ -3,8 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="091a3925-8047-4ba0-9ed9-0841571aba8f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc_test_no_xml/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/config/WebAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/config/WebAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/webapp/pages/proces_form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/webapp/pages/proces_form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/config/WebAppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/config/WebAppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/config/WebAppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/config/WebAppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/pages/proces_form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/pages/proces_form.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +21,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="164" column="36" selection-start-line="164" selection-start-column="36" selection-end-line="164" selection-end-column="36" />
+            <state relative-caret-position="272">
+              <caret line="133" column="31" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+            <state relative-caret-position="833">
+              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
               <folding>
                 <element signature="e#1290#1291#0" expanded="true" />
                 <element signature="e#1344#1345#0" expanded="true" />
@@ -81,14 +88,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551693037413" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -129,29 +137,24 @@
       <option name="presentableId" value="Default" />
       <updated>1551688557397</updated>
       <workItem from="1551688558903" duration="2457000" />
+      <workItem from="1551863609655" duration="932000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2457000" />
+    <option name="totallyTimeSpent" value="3389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13918306" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14145234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28477904" />
@@ -159,38 +162,44 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+        <state relative-caret-position="272">
+          <caret line="133" column="31" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="31" />
           <folding>
-            <element signature="e#1290#1291#0" expanded="true" />
-            <element signature="e#1344#1345#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="164" column="36" selection-start-line="164" selection-start-column="36" selection-end-line="164" selection-end-column="36" />
+        <state relative-caret-position="833">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
           </folding>
         </state>
       </provider>

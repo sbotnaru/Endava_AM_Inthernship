@@ -1,9 +1,11 @@
 <html>
 <body>
 
+
 <center>
-<h2>Would you like to see what is going to happen if you clik YES?</h2>
-<button onclick="window.location.href = 'showForm';">Yes</button>
+<h2>Choose what you want to do?</h2>
+<button style="width: 10%;height: 10%" onclick="window.location.href = 'showForm';">INSERT DATA</button >
+    <button style="width: 10%;height: 10% " onclick="window.location.href = 'display';">DISPLAY DATA</button>
 </center>
 </body>
 </html>

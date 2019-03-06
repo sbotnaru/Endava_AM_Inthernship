@@ -21,6 +21,7 @@ public class WebAppConfig extends WebMvcConfigurerAdapter {
         registry.addResourceHandler("/pages/**").addResourceLocations("/pages/");
     }
 
+
     // Initialize view resolver
     @Bean
     public InternalResourceViewResolver setupViewResolver() {

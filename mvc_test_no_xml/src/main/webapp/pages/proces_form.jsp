@@ -12,8 +12,23 @@
 </head>
 <body>
 
-<center><h2>Hello&nbsp${param.studentName}</h2>
-<a href="http://localhost:8080/mvc_test_no_xml_war_exploded/">Go back ->></a>
+<center>
+
+
+    <h2>Spring MVC and List Example</h2>
+
+    <c:if test="${not empty lists}">
+
+        <ul>
+            <c:forEach var="listValue" items="${lists}">
+                <li>${listValue}</li>
+            </c:forEach>
+        </ul>
+
+    </c:if>
+  <%--  <img src="${pageContext.request.contextPath}/pages/hello.gif">--%>
+<a  href="/mvc_test_no_xml_war_exploded/">Go back ->></a>
+
 </center>
 </body>
 </html>
