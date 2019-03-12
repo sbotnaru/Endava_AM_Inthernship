@@ -14,11 +14,12 @@ public class SavingsAccount implements ISavingsAccount {
     @Override
     public double calculateMonthlyInterest() {
 
-        if (savingsBalance>=0.0){
-            savingsBalance = (savingsBalance * annualInterestRate) / 12;
+        if (savingsBalance>0.0){
+            savingsBalance = (savingsBalance * (annualInterestRate/100)) / 12;
         }
         else{
-            System.out.println("Lack of money, your balance is negative: "+savingsBalance);
+            System.out.println("Your balance is negative: "+savingsBalance+ "\n Your annual intrest rate will be calculated with interest rate of: "+(annualInterestRate/2));
+            savingsBalance = (Math.abs(savingsBalance) * ((annualInterestRate/2))/100) / 12;
         }
 
         return savingsBalance;

@@ -2,81 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0e34481-7f9d-43a9-a374-cb607590217b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Task3/src/Task_1_2/GeometricCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task3/src/Task_1_2/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/Tasks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/Tasks1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/out/production/Tasks/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/out/production/Tasks/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/out/production/Tasks1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/out/production/Tasks1/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tasks1/src/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/mvc_test_no_xml.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/config/Intializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/config/WebAppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/controller/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/dao/DaoClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/dao/DaoList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/enity/Field.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/enity/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/services/StudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/java/com/endava/services/StudentServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/webapp/pages/hello.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/webapp/pages/helloworld.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/webapp/pages/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/webapp/pages/proces_form.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/src/main/webapp/pages/show_form.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/META-INF/mvc_test_no_xml.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/config/Intializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/config/WebAppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/controller/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/dao/DaoClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/dao/DaoList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/enity/Field.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/enity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/services/StudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/classes/com/endava/services/StudentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/META-INF/mvc_test_no_xml.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/config/Intializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/config/WebAppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/controller/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/dao/DaoClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/dao/DaoList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/enity/Field.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/enity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/services/StudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/classes/com/endava/services/StudentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/lib/commons-logging-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/lib/spring-aop-3.2.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/lib/spring-beans-3.2.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/lib/spring-context-3.2.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/lib/spring-core-3.2.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/lib/spring-expression-3.2.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/lib/spring-web-3.2.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/lib/spring-webmvc-3.2.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/pages/hello.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/pages/helloworld.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/pages/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/pages/proces_form.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvc_test_no_xml/target/mvc_test_no_xml/pages/show_form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task2/SavingsAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task2/SavingsAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task2/TestSavingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task2/TestSavingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestSavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestSavingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task3/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,12 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestSavingAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="204">
+              <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -99,16 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SavingsAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding>
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#848#849#0" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
-                <element signature="e#1183#1184#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="172">
+              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -135,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-14" />
     <option name="y" value="1" />
     <option name="width" value="1346" />
@@ -158,6 +81,11 @@
               <item name="Java_core_Task2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Task2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java_core_Task2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Task2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -168,7 +96,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551948804388" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -214,57 +142,54 @@
       <option name="presentableId" value="Default" />
       <updated>1551939982554</updated>
       <workItem from="1551939986921" duration="5359000" />
+      <workItem from="1552286839549" duration="1806000" />
+      <workItem from="1552383672117" duration="1075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5359000" />
+    <option name="totallyTimeSpent" value="8240000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19062027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.113464445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1309329" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2831424" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/ISavingsAccount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -274,23 +199,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestSavingAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="204">
+          <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SavingsAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1183#1184#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="172">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>
